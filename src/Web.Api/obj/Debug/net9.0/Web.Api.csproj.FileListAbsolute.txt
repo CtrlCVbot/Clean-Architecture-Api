@@ -31,3 +31,4 @@ E:\Project\DotNet\Clean-architecture\src\Web.Api\obj\Debug\net9.0\refint\Web.Api
 E:\Project\DotNet\Clean-architecture\src\Web.Api\obj\Debug\net9.0\Web.Api.pdb
 E:\Project\DotNet\Clean-architecture\src\Web.Api\obj\Debug\net9.0\Web.Api.genruntimeconfig.cache
 E:\Project\DotNet\Clean-architecture\src\Web.Api\obj\Debug\net9.0\ref\Web.Api.dll
+E:\Project\DotNet\Clean-architecture\src\Web.Api\obj\Debug\net9.0\Web.Api.sourcelink.json
