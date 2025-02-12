@@ -7,7 +7,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="MediatR" Version="12.4.1" />
+    <!-- 기본적인 검증을 위한 패키지 -->
+    <PackageReference Include="FluentValidation" Version="11.8.0" />
+    
+    <!-- MediatR - 도메인 이벤트 처리를 위한 패키지 -->
+    <PackageReference Include="MediatR.Contracts" Version="2.0.1" />
   </ItemGroup>
 
 </Project>
