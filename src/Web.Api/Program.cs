@@ -1,4 +1,21 @@
+using System.Reflection;
+using Application;
+
+using Infrastructure;
+using Microsoft.AspNetCore.Diagnostics.HealthChecks;
+using Serilog;
+using Web.Api;
+using Web.Api.Extensions;
+
+
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddSwaggerGenWithAuth(); // 스웨거 서비스 추가
+
+builder.Services
+    .AddApplication()
+    .AddPresentation()
+    .AddInfrastructure(builder.Configuration);
 
 // Add services to the container.
 builder.Services.AddControllers(); // 컨트롤러 서비스 추가
@@ -9,39 +26,14 @@ var app = builder.Build();
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
-    app.MapOpenApi();
+    //app.MapOpenApi();
+    app.UseSwaggerWithUi();
+
+    app.ApplyMigrations();
 }
 
 app.UseHttpsRedirection();
 app.UseRouting(); // 라우팅 미들웨어 추가
 app.MapControllers(); // 컨트롤러 엔드포인트 매핑
 
-app.Run();
-
-var summaries = new[]
-{
-    "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
-};
-
-app.MapGet("api/weatherforecast", () =>
-{
-    var forecast =  Enumerable.Range(1, 5).Select(index =>
-        new WeatherForecast
-        (
-            DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
-            Random.Shared.Next(-20, 55),
-            summaries[Random.Shared.Next(summaries.Length)]
-            
-        ))
-        .ToArray();
-    return forecast;
-})
-.WithName("GetWeatherForecast");
-
-app.Run();
-
-public record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
-{
-    public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
-    string a = "";
-}
+await app.Run();

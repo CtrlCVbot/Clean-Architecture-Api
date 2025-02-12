@@ -1,18 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "+URT3eeHqoI=",
-  "success": false,
+  "dgSpecHash": "t4Ma7qQKPB4=",
+  "success": true,
   "projectFilePath": "E:\\Project\\DotNet\\Clean-architecture\\src\\Domain\\Domain.csproj",
-  "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "NU1201",
-      "level": "Error",
-      "message": "Project SharedKernel is not compatible with net7.0 (.NETCoreApp,Version=v7.0). Project SharedKernel supports: net9.0 (.NETCoreApp,Version=v9.0)",
-      "libraryId": "SharedKernel",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    }
-  ]
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\fluentvalidation\\11.8.0\\fluentvalidation.11.8.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
 }
