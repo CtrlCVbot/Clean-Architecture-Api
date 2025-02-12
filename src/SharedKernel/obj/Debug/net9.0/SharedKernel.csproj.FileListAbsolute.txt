@@ -1,0 +1,13 @@
+E:\Project\DotNet\Clean-architecture\src\SharedKernel\bin\Debug\net9.0\SharedKernel.deps.json
+E:\Project\DotNet\Clean-architecture\src\SharedKernel\bin\Debug\net9.0\SharedKernel.dll
+E:\Project\DotNet\Clean-architecture\src\SharedKernel\bin\Debug\net9.0\SharedKernel.pdb
+E:\Project\DotNet\Clean-architecture\src\SharedKernel\obj\Debug\net9.0\SharedKernel.csproj.AssemblyReference.cache
+E:\Project\DotNet\Clean-architecture\src\SharedKernel\obj\Debug\net9.0\SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\DotNet\Clean-architecture\src\SharedKernel\obj\Debug\net9.0\SharedKernel.AssemblyInfoInputs.cache
+E:\Project\DotNet\Clean-architecture\src\SharedKernel\obj\Debug\net9.0\SharedKernel.AssemblyInfo.cs
+E:\Project\DotNet\Clean-architecture\src\SharedKernel\obj\Debug\net9.0\SharedKernel.csproj.CoreCompileInputs.cache
+E:\Project\DotNet\Clean-architecture\src\SharedKernel\obj\Debug\net9.0\SharedKernel.sourcelink.json
+E:\Project\DotNet\Clean-architecture\src\SharedKernel\obj\Debug\net9.0\SharedKernel.dll
+E:\Project\DotNet\Clean-architecture\src\SharedKernel\obj\Debug\net9.0\refint\SharedKernel.dll
+E:\Project\DotNet\Clean-architecture\src\SharedKernel\obj\Debug\net9.0\SharedKernel.pdb
+E:\Project\DotNet\Clean-architecture\src\SharedKernel\obj\Debug\net9.0\ref\SharedKernel.dll

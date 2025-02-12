@@ -1,9 +1,10 @@
-using SharedKernel;
+﻿using SharedKernel;
 
 namespace Domain.Users;
 
 public sealed class User : Entity
-{    
+{
+    
     public int? Idx { get; set; }
     public int? CorpIdx { get; set; }
     public string? CorpName { get; set; }

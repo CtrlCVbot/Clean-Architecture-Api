@@ -1,0 +1,16 @@
+E:\Project\DotNet\Clean-architecture\src\Domain\bin\Debug\net9.0\Domain.deps.json
+E:\Project\DotNet\Clean-architecture\src\Domain\bin\Debug\net9.0\Domain.dll
+E:\Project\DotNet\Clean-architecture\src\Domain\bin\Debug\net9.0\Domain.pdb
+E:\Project\DotNet\Clean-architecture\src\Domain\bin\Debug\net9.0\SharedKernel.dll
+E:\Project\DotNet\Clean-architecture\src\Domain\bin\Debug\net9.0\SharedKernel.pdb
+E:\Project\DotNet\Clean-architecture\src\Domain\obj\Debug\net9.0\Domain.csproj.AssemblyReference.cache
+E:\Project\DotNet\Clean-architecture\src\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\DotNet\Clean-architecture\src\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+E:\Project\DotNet\Clean-architecture\src\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+E:\Project\DotNet\Clean-architecture\src\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+E:\Project\DotNet\Clean-architecture\src\Domain\obj\Debug\net9.0\Domain.sourcelink.json
+E:\Project\DotNet\Clean-architecture\src\Domain\obj\Debug\net9.0\Domain.csproj.Up2Date
+E:\Project\DotNet\Clean-architecture\src\Domain\obj\Debug\net9.0\Domain.dll
+E:\Project\DotNet\Clean-architecture\src\Domain\obj\Debug\net9.0\refint\Domain.dll
+E:\Project\DotNet\Clean-architecture\src\Domain\obj\Debug\net9.0\Domain.pdb
+E:\Project\DotNet\Clean-architecture\src\Domain\obj\Debug\net9.0\ref\Domain.dll
