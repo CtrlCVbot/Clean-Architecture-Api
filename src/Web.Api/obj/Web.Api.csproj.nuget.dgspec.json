@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Project\\DotNet\\Clean-architecture\\src\\Web.Api\\Web.Api.csproj": {}
+    "E:\\Project\\DotNet\\Clean-architecture\\src\\web.api\\Web.Api.csproj": {}
   },
   "projects": {
-    "E:\\Project\\DotNet\\Clean-architecture\\src\\Web.Api\\Web.Api.csproj": {
+    "E:\\Project\\DotNet\\Clean-architecture\\src\\web.api\\Web.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Project\\DotNet\\Clean-architecture\\src\\Web.Api\\Web.Api.csproj",
+        "projectUniqueName": "E:\\Project\\DotNet\\Clean-architecture\\src\\web.api\\Web.Api.csproj",
         "projectName": "Web.Api",
-        "projectPath": "E:\\Project\\DotNet\\Clean-architecture\\src\\Web.Api\\Web.Api.csproj",
+        "projectPath": "E:\\Project\\DotNet\\Clean-architecture\\src\\web.api\\Web.Api.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\Project\\DotNet\\Clean-architecture\\src\\Web.Api\\obj\\",
+        "outputPath": "E:\\Project\\DotNet\\Clean-architecture\\src\\web.api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
