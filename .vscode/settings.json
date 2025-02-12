@@ -1,3 +1,18 @@
 {
-    "dotnet.defaultSolution": "Web.sln"
+    "dotnet.defaultSolution": "Clean-Architecture.sln",
+    "github.copilot.advanced": {
+        "language": "ko"
+    },
+    "github.copilot.chat.language": "ko",
+    "github.copilot.editor.enableAutoCompletions": true,
+    "github-copilot.advanced": {
+        "language": "ko",
+        "setLanguage": true
+    },
+    "github.copilot.enable": {
+        "*": true,
+        "yaml": true,
+        "plaintext": true,
+        "markdown": true
+    }
 }
